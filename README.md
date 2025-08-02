@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Coderkid22
-- 👀 I’m interested in Python, Pygame, Js, game's, cubing, drawing and web games
-- 🌱 I’m currently learning Pygame, Python, Making web game's
+- 👀 I’m interested in Python, Pygame, Game dev, Cubing, drawing and web games
+- 🌱 I’m currently learning Pygame, Python, Making web games
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
